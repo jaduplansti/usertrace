@@ -12,7 +12,8 @@ usage: usertrace.py [-h] [-o OUTPUT] usernames
 
 # Sites Checked
 * Twitter
-* Facebook                          * Instagram
+* Facebook
+* Instagram
 * TikTok
 * Reddit
 * YouTube
